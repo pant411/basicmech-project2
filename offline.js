@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1636448310,
+	"version": 1636470075,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,9 @@
 		"images/sprite-sheet0.png",
 		"images/bull-sheet0.png",
 		"images/ppppp-sheet0.png",
+		"images/9patch.png",
+		"images/9patch2.png",
+		"images/9patch3.png",
 		"media/gunsnglshotfireex-pe1107203.ogg",
 		"media/mouse-click-00-m-fesliyanstudios.com2.ogg",
 		"media/strategy (dramatic music) - vanoss gaming background music (hd).ogg",
