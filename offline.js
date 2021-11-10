@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1636470075,
+	"version": 1636520691,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,9 +17,9 @@
 		"images/sprite-sheet0.png",
 		"images/bull-sheet0.png",
 		"images/ppppp-sheet0.png",
-		"images/9patch.png",
-		"images/9patch2.png",
-		"images/9patch3.png",
+		"images/250025544_896204987688496_736118296792258719_n-sheet0.png",
+		"images/254942151_658759388452989_264439870728836703_n-sheet0.png",
+		"images/255460961_1292865307893872_4460723028402915327_n-sheet0.png",
 		"media/gunsnglshotfireex-pe1107203.ogg",
 		"media/mouse-click-00-m-fesliyanstudios.com2.ogg",
 		"media/strategy (dramatic music) - vanoss gaming background music (hd).ogg",
